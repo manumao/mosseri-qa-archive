@@ -17,6 +17,7 @@ Every week Adam Mosseri, the head of Instagram, answers questions from creators 
 
 | Date | Video |
 | --- | --- |
+| Nov 6, 2026 | [Adam Mosseri Instagram Q&A - Nov 6, 2026](https://youtu.be/KtvpxtDZIGU) |
 | Oct 30, 2026 | [Adam Mosseri Instagram Q&A - Oct 30, 2026](https://youtu.be/RsvOAUdgRxc) |
 
 ## How it's built

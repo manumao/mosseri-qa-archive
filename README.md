@@ -10,13 +10,14 @@ Every week Adam Mosseri, the head of Instagram, answers questions from creators 
 
 - A short summary of every answer, grouped by Q&A session
 - Topic tags (Reels & video, Features, Reach, Apps, Company, Policy) and a topic filter
-- A "Watch at m:ss" link for each answer that opens the YouTube video at that second
+- A "Watch at m:ss" link for each answer that opens the YouTube video at that second, plus a Short link to the standalone clip
 - Light and dark mode, and a layout that works on desktop and mobile
 
 ## Sessions
 
 | Date | Video |
 | --- | --- |
+| Nov 13, 2026 | [Adam Mosseri Instagram Q&A - Nov 13, 2026](https://youtu.be/BqIMwtUksMM) |
 | Nov 6, 2026 | [Adam Mosseri Instagram Q&A - Nov 6, 2026](https://youtu.be/KtvpxtDZIGU) |
 | Oct 30, 2026 | [Adam Mosseri Instagram Q&A - Oct 30, 2026](https://youtu.be/RsvOAUdgRxc) |
 

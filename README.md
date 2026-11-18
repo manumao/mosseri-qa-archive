@@ -9,9 +9,10 @@ Every week Adam Mosseri, the head of Instagram, answers questions from creators 
 ## What's on the site
 
 - A short summary of every answer, grouped by Q&A session
-- Topic tags (Reels & video, Features, Reach, Apps, Company, Policy) and a topic filter
-- A "Watch at m:ss" link for each answer that opens the YouTube video at that second, plus a Short link to the standalone clip
-- Light and dark mode, and a layout that works on desktop and mobile
+- Topic tags (Reels & video, Features, Reach, Apps, Company, Policy) and a topic filter that shows how many answers match
+- A “Watch at m:ss” link for each answer that opens the YouTube video at that second, plus a “Watch the Short” link to the standalone clip
+- Light and dark mode that follow your system setting, and a layout that works from 320px phones to desktop
+- Full keyboard support, a skip link, screen-reader labels on every link and no motion when you’ve turned on Reduce motion
 
 ## Sessions
 
@@ -23,7 +24,7 @@ Every week Adam Mosseri, the head of Instagram, answers questions from creators 
 
 ## How it's built
 
-It's a single `index.html` with inline CSS and JavaScript. There's no build step or framework, and GitHub Pages serves it straight from the `main` branch.
+It’s a single `index.html` with inline CSS and JavaScript. There’s no build step or framework, and GitHub Pages serves it straight from the `main` branch. Colors are OKLCH design tokens, and the design follows Jakub Krehel’s [interface skills](https://github.com/jakubkrehel/skills).
 
 ## Disclaimer
 
